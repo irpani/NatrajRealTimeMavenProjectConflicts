@@ -18,8 +18,9 @@
 <dependency>
     <groupId>jakarta.servlet</groupId>
     <artifactId>jakarta.servlet-api</artifactId>
-    <version>4.0.0</version>
-    <scope>provided</scope>
+    <version>5.0.0</version>
+    <scope>test</scope>
+
 </dependency>
   </dependencies>
   <build>
